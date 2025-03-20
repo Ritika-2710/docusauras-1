@@ -8,6 +8,7 @@ import {themes as prismThemes} from 'prism-react-renderer';
 
 /** @type {import('@docusaurus/types').Config} */
 const config = {
+<<<<<<< HEAD
   title: 'My Site',
   tagline: 'Dinosaurs are cool',
   favicon: 'img/favicon.ico',
@@ -18,6 +19,14 @@ const config = {
   // For GitHub pages deployment, it is often '/<projectName>/'
   baseUrl: '/',
 
+=======
+  tagline: 'Dinosaurs are cool',
+  favicon: 'img/favicon.ico',
+  title: 'My Website',
+  url: 'https://ritika-2710.github.io',  // Replace with your GitHub username
+  baseUrl: '/docusauras-1/',  
+  trailingSlash: false,
+>>>>>>> a20dc3895a576a7ad3c7f9aab1a315436a93fa48
   // GitHub pages deployment config.
   // If you aren't using GitHub pages, you don't need these.
   organizationName: 'facebook', // Usually your GitHub org/user name.
